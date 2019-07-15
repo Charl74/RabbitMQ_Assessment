@@ -1,0 +1,14 @@
+C:\Users\Charl_VDW\RabbitMQ Assesment\Consumer\obj\Debug\netcoreapp2.1\Consumer.csprojAssemblyReference.cache
+C:\Users\Charl_VDW\RabbitMQ Assesment\Consumer\obj\Debug\netcoreapp2.1\Consumer.csproj.CoreCompileInputs.cache
+C:\Users\Charl_VDW\RabbitMQ Assesment\Consumer\obj\Debug\netcoreapp2.1\Consumer.AssemblyInfoInputs.cache
+C:\Users\Charl_VDW\RabbitMQ Assesment\Consumer\obj\Debug\netcoreapp2.1\Consumer.AssemblyInfo.cs
+C:\Users\Charl_VDW\RabbitMQ Assesment\Consumer\bin\Debug\netcoreapp2.1\Consumer.deps.json
+C:\Users\Charl_VDW\RabbitMQ Assesment\Consumer\bin\Debug\netcoreapp2.1\Consumer.runtimeconfig.json
+C:\Users\Charl_VDW\RabbitMQ Assesment\Consumer\bin\Debug\netcoreapp2.1\Consumer.runtimeconfig.dev.json
+C:\Users\Charl_VDW\RabbitMQ Assesment\Consumer\bin\Debug\netcoreapp2.1\Consumer.dll
+C:\Users\Charl_VDW\RabbitMQ Assesment\Consumer\bin\Debug\netcoreapp2.1\Consumer.pdb
+C:\Users\Charl_VDW\RabbitMQ Assesment\Consumer\bin\Debug\netcoreapp2.1\SharedLibrary.dll
+C:\Users\Charl_VDW\RabbitMQ Assesment\Consumer\bin\Debug\netcoreapp2.1\SharedLibrary.pdb
+C:\Users\Charl_VDW\RabbitMQ Assesment\Consumer\obj\Debug\netcoreapp2.1\Consumer.csproj.CopyComplete
+C:\Users\Charl_VDW\RabbitMQ Assesment\Consumer\obj\Debug\netcoreapp2.1\Consumer.dll
+C:\Users\Charl_VDW\RabbitMQ Assesment\Consumer\obj\Debug\netcoreapp2.1\Consumer.pdb

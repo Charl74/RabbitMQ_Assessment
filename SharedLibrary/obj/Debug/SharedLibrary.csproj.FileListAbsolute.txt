@@ -1,0 +1,13 @@
+C:\Users\Charl_VDW\RabbitMQ Assesment\SharedLibrary\bin\Debug\SharedLibrary.dll
+C:\Users\Charl_VDW\RabbitMQ Assesment\SharedLibrary\bin\Debug\SharedLibrary.pdb
+C:\Users\Charl_VDW\RabbitMQ Assesment\SharedLibrary\obj\Debug\SharedLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Charl_VDW\RabbitMQ Assesment\SharedLibrary\obj\Debug\SharedLibrary.dll
+C:\Users\Charl_VDW\RabbitMQ Assesment\SharedLibrary\obj\Debug\SharedLibrary.pdb
+C:\Users\Charl_VDW\RabbitMQ Assesment\SharedLibrary\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\Charl_VDW\RabbitMQ Assesment\SharedLibrary\bin\Debug\RabbitMQ.Client.dll
+C:\Users\Charl_VDW\RabbitMQ Assesment\SharedLibrary\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\Charl_VDW\RabbitMQ Assesment\SharedLibrary\bin\Debug\RabbitMQ.Client.xml
+C:\Users\Charl_VDW\RabbitMQ Assesment\SharedLibrary\obj\Debug\SharedLibrary.csproj.CopyComplete
+C:\Users\Charl_VDW\RabbitMQ Assesment\SharedLibrary\obj\Debug\SharedLibrary.csprojAssemblyReference.cache
+C:\Users\Charl_VDW\RabbitMQ Assesment\SharedLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Charl_VDW\RabbitMQ Assesment\SharedLibrary\bin\Debug\Newtonsoft.Json.xml
